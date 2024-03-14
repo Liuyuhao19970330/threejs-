@@ -1,2 +1,2 @@
 # threejs-
-threejs工业零件
+threejs工业零件项目练习.
